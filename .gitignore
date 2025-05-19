@@ -1,3 +1,9 @@
+# Added by JL 2025
+*.DS_Store
+.vscode
+*.pkl
+results/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
